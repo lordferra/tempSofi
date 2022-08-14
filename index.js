@@ -1,1 +1,4 @@
-console.log('hola Mundo')
+let hola = 'hola';
+let mundo = 'mundo'
+
+console.log(hola,mundo)
