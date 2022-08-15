@@ -9,3 +9,7 @@ hola();
 function decirChau(){
     console.log('Adios mundo Cruel :c')
 }
+
+function preguntarComoEstas(){
+    console.log('Como estas?');
+}
