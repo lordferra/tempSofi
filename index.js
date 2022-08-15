@@ -4,8 +4,6 @@ function decirHola(){
     console.log(hola,mundo)
 }
 
-hola();
-decirChau();
 function decirChau(){
     console.log('Adios mundo Cruel :c')
 }
@@ -13,3 +11,11 @@ function decirChau(){
 function preguntarComoEstas(){
     console.log('Como estas?');
 }
+
+function sofi(){
+    console.log('soy sofía jejeje')
+}
+
+
+decirHola();
+preguntarComoEstas();
