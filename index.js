@@ -13,3 +13,7 @@ function decirChau(){
 function preguntarComoEstas(){
     console.log('Como estas?');
 }
+
+function sofi(){
+    console.log('soy sofía jejeje')
+}
