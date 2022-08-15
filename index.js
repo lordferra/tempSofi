@@ -5,7 +5,7 @@ function decirHola(){
 }
 
 hola();
-
+decirChau();
 function decirChau(){
     console.log('Adios mundo Cruel :c')
 }
